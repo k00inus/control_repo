@@ -1,2 +1,2 @@
 # control_repo
-puppet testing
+testing a change
